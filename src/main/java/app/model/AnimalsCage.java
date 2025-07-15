@@ -19,7 +19,7 @@ public class AnimalsCage {
         System.out.println(animal.toString());
         System.out.println("At:");
         System.out.println(timer.getTime());
-        System.out.println("________________________");
+        System.out.println("_______________________");
     }
     public Timer getTimer(){
         return timer;
